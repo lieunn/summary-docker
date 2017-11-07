@@ -18,9 +18,3 @@
 - Chăm chỉ theo dõi thông tin và thực hành đều đặn.
 - Bắt chước và tạo ra cái mới.
 - Sysad, Developer nên dùng được Docker.
-
-### Các thành viên đóng góp
-- Tô Thành Công.
-- Nguyễn Công Đức.
-- Lê Thanh Lĩnh.
-- Nguyễn Trọng Tấn.
